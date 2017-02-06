@@ -1,0 +1,23 @@
+{
+  "name": "lojaskd/php-ab-test",
+  "type": "library",
+  "description": "This library is a pure PHP implementation to do AB Tests",
+  "keywords": [
+    "php",
+    "test",
+    "ab"
+  ],
+  "homepage": "https://github.com/lojaskd/php-ab-test/",
+  "authors": [],
+  "autoload": {
+    "psr-4": {
+      "LojasKD\\ABTest\\PHP\\": "src/"
+    }
+  },
+  "license": "GNU",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "master"
+    }
+  }
+}
