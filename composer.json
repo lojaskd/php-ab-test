@@ -11,7 +11,7 @@
   "authors": [],
   "autoload": {
     "psr-4": {
-      "LojasKD\\ABTest\\": "vendor/php-ab-test/ABTest"
+      "LojasKD\\ABTest\\": "vendor/lojaskd/php-ab-test/ABTest/"
     }
   },
   "license": "GNU",
