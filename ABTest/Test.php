@@ -1,14 +1,6 @@
 <?php
 
-namespace ABTest;
-
-/*
-Name        : phpA/B v1.2
-Author      : Brian Cray
-License     : GPL 2.0
-License URL : http : //www.gnu.org/licenses/gpl-2.0.html
-URL         : phpabtest.com
-*/
+namespace LojasKD\ABTest;
 
 class Test
 {
