@@ -9,11 +9,6 @@
   ],
   "homepage": "https://github.com/lojaskd/php-ab-test/",
   "authors": [],
-  "autoload": {
-    "psr-4": {
-      "LojasKD\\ABTest\\": "ABTest/"
-    }
-  },
   "license": "GNU",
   "extra": {
     "branch-alias": {
