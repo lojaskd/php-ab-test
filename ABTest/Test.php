@@ -34,7 +34,7 @@ class Test
             $this->trialMode = $trial;
         }
 
-        ob_start(array($this, 'execute'));
+        ob_start(array($this, 'execute', PHP_OUTPUT_HANDLER_REMOVABLE));
 
         $this->testDomain = '.' . filter_input(INPUT_SERVER, 'HTTP_HOST');
     }
